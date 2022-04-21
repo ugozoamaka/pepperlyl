@@ -12,14 +12,14 @@
             "texts": [
                 {
                     "id": 1,
-                    "content": "Partner with one of the world's largest retailers to showcase your brand and products."
+                    "content": "Pepperlyl is one of the world's largest NFT Marketplace. Discover Artwork, Explore Virtual world, One community with Endless Possibilities."
                 }
             ],
             "buttons": [
                 {
                     "id": 1,
-                    "content": "Get Started",
-                    "path": "/"
+                    "content": "Verse Metaverse",
+                    "path": "/verse"
                 },
                 {
                     "id": 2,

@@ -11,8 +11,8 @@
                     "buttons": [
                         {
                             "id": 1,
-                            "path": "/login",
-                            "content": "Get Started"
+                            "path": "/verse",
+                            "content": "Verse Metaverse"
                         },
                         {
                             "id": 2,

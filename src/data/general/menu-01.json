@@ -5,18 +5,13 @@
         "path": "/"
     },
     {
-        "id": 2,
-        "text": "About",
-        "path": "/about"
-    },
-    {
         "id": 3,
-        "text": "Explore NFT",
+        "text": "Explore",
         "path": "/explore-05"
     },
     {
         "id": 4,
-        "text": "Create NFT",
+        "text": "Create",
         "path": "/create"
     },
     {
@@ -27,7 +22,7 @@
 
     {
         "id": 6,
-        "text": "Contact",
-        "path": "/contact"
+        "text": "Metaverse",
+        "path": "/verse"
     }
 ]
